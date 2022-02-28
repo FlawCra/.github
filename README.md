@@ -1,1 +1,1 @@
-# .github
+# FlawCra special `FlawCra/.github` repository
