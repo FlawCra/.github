@@ -1,1 +1,1 @@
-<img src="https://old.flawcra.cc/img/core-img/logos/vector/default-monochrome.svg"></img>
+<img src="https://img.flawcra.cc/45766dc2-7198-476e-2e3e-1109d1595000">GitHub failed to load the image ._.</img>
